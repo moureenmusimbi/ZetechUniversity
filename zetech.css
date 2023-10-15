@@ -28,7 +28,7 @@ p {
 }
 
 .form-section {
-    background-color: whitesmoke;
+    background-color: rgb(153, 37, 189);
     width: 50%;
     float: right;
     display: flex;
